@@ -1,0 +1,216 @@
+# depslib dependency file v1.0
+1576017457 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\main.cpp
+	<iostream>
+	<locale.h>
+	"bibMenu.h"
+
+1574972905 c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\bibmenu.h
+	<windows.h>
+
+1576022406 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\menu.cpp
+	<iostream>
+	"bibMenu.h"
+	"bibArquivo.h"
+	<sstream>
+	<fstream>
+	<windows.h>
+	"bibArvoreP.h"
+	"bibTADListaP.h"
+
+1574949207 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\implementtadlistaponteiro.cpp
+	<iostream>
+	"bibTADListaP.h"
+
+1575890752 c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\bibtadlistap.h
+
+1574955838 c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\bibcadastro.h
+	<iostream>
+	"bibTADListaP.h"
+	"bibMenu.h"
+
+1574979706 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\cadastrar.cpp
+	<windows.h>
+	<fstream>
+	<iostream>
+	"bibCadastrar.h"
+	"bibEscrevendoArq.h"
+	"bibTADListaP.h"
+
+1574980772 c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\bibcadastrar.h
+	"bibMenu.h"
+
+1574981765 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\escrevendo.cpp
+	<iostream>
+	<fstream>
+	"bibEscrevendoArq.h"
+
+1575460314 c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\bibescrevendoarq.h
+
+1575888647 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\implementtadlistap.cpp
+	<iostream>
+	"bibTADListaP.h"
+
+1574980772 c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\bibcadastrarpaciente.h
+	"bibMenu.h"
+
+1575461108 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\cadastrarpaciente.cpp
+	<windows.h>
+	<fstream>
+	<iostream>
+	<sstream>
+	"bibCadastrar.h"
+	"bibArquivo.h"
+
+1574981868 c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\bibescrevendoarqo.h
+
+1574981868 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\escrevendoo.cpp
+	<iostream>
+	<fstream>
+	"bibEscrevendoArqO.h"
+
+1575460867 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\lendop.cpp
+	<iostream>
+	<fstream>
+	"bibLendoArqP.h"
+	"bibTADListaP.h"
+	"bibArvoreP.h"
+
+1575460867 c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\biblendoarqp.h
+	"bibArvoreP.h"
+	"bibTADListaP.h"
+
+1575459911 c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\biblendoarqo.h
+	"bibTADListaP.h"
+
+1575418056 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\lendoo.cpp
+	<iostream>
+	<fstream>
+	"bibLendoArqO.h"
+
+1574985988 c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\bibtadlistapo.h
+
+1574986013 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\implementtadlistapo.cpp
+	<iostream>
+	"bibTADListaPO.h"
+
+1574981868 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\estruturas de dados\atividade-final-carlos,denílson\trabalhofinal\escrevendoo.cpp
+	<iostream>
+	<fstream>
+	"bibEscrevendoArqO.h"
+
+1574981868 c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\estruturas de dados\atividade-final-carlos,denílson\trabalhofinal\bibescrevendoarqo.h
+
+1574981765 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\estruturas de dados\atividade-final-carlos,denílson\trabalhofinal\escrevendop.cpp
+	<iostream>
+	<fstream>
+	"bibEscrevendoArq.h"
+
+1574981765 c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\estruturas de dados\atividade-final-carlos,denílson\trabalhofinal\bibescrevendoarq.h
+
+1574980861 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\estruturas de dados\atividade-final-carlos,denílson\trabalhofinal\implementtadlistap.cpp
+	<iostream>
+	"bibTADListaP.h"
+
+1575305034 c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\estruturas de dados\atividade-final-carlos,denílson\trabalhofinal\bibtadlistap.h
+
+1574986013 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\estruturas de dados\atividade-final-carlos,denílson\trabalhofinal\implementtadlistapo.cpp
+	<iostream>
+	"bibTADListaPO.h"
+
+1574985988 c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\estruturas de dados\atividade-final-carlos,denílson\trabalhofinal\bibtadlistapo.h
+
+1574986173 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\estruturas de dados\atividade-final-carlos,denílson\trabalhofinal\lendoo.cpp
+	<iostream>
+	<fstream>
+	"bibLendoArqO.h"
+	"bibTADListaPO.h"
+
+1574985591 c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\estruturas de dados\atividade-final-carlos,denílson\trabalhofinal\biblendoarqo.h
+
+1574986173 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\estruturas de dados\atividade-final-carlos,denílson\trabalhofinal\lendop.cpp
+	<iostream>
+	<fstream>
+	"bibLendoArqP.h"
+	"bibTADListaP.h"
+
+1574982872 c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\estruturas de dados\atividade-final-carlos,denílson\trabalhofinal\biblendoarqp.h
+
+1574955400 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\estruturas de dados\atividade-final-carlos,denílson\trabalhofinal\main.cpp
+	<iostream>
+	<locale.h>
+	"bibMenu.h"
+
+1574972905 c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\estruturas de dados\atividade-final-carlos,denílson\trabalhofinal\bibmenu.h
+	<windows.h>
+
+1574985590 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\estruturas de dados\atividade-final-carlos,denílson\trabalhofinal\menu.cpp
+	<iostream>
+	"bibMenu.h"
+	"bibCadastrarPaciente.h"
+	"bibLendoArqP.h"
+	"bibLendoArqO.h"
+
+1575305034 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\estruturas de dados\atividade-final-carlos,denílson\trabalhofinal\cadastrarpaciente.cpp
+	<windows.h>
+	<fstream>
+	<iostream>
+	"bibCadastrar.h"
+	"bibEscrevendoArqO.h"
+	"bibEscrevendoArq.h"
+	"bibTADListaP.h"
+	"bibTADListaPO.h"
+
+1574980772 c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\estruturas de dados\atividade-final-carlos,denílson\trabalhofinal\bibcadastrar.h
+	"bibMenu.h"
+
+1575460314 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\escrevendop.cpp
+	<iostream>
+	<fstream>
+	"bibEscrevendoArq.h"
+
+1575460690 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\consultar.cpp
+	<iostream>
+	"bibConsultar.h"
+	"bibLendoArqP.h"
+	"bibArvoreP.h"
+
+1575317392 c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\bibconsultar.h
+	"bibMenu.h"
+
+1575758514 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\arvorep.cpp
+	<iostream>
+	"bibArvoreP.h"
+
+1575752319 c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\bibarvorep.h
+	"bibTADListaP.h"
+
+1575408750 c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\bibintercambio.h
+	"bibTADListaP.h"
+	"bibArvoreP.h"
+
+1575427415 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\intercambio.cpp
+	<iostream>
+	"bibIntercambio.h"
+	"bibTADListaPO.h"
+	"bibArvoreP.h"
+
+1575462112 c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\bibvizualizar.h
+	"bibArquivo.h"
+	<windows.h>
+
+1575495387 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\vizualizar.cpp
+	<iostream>
+	"bibVizualizar.h"
+	"bibTADListaP.h"
+
+1575757606 c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\bibarquivo.h
+	"bibArvoreP.h"
+	"bibTADListaP.h"
+
+1575757606 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 2\atividade-final-carlos,denílson\trabalhofinal\arquivo.cpp
+	<iostream>
+	<fstream>
+	"bibArquivo.h"
+	"bibTADListaP.h"
+	"bibArvoreP.h"
+
