@@ -1,8 +1,8 @@
 # Trabalho final da disciplina de Algoritmos e Estruturas de Dados  2 :computer:
 
 Este trabalho tem como objetivo aplicar os conhecimentos adquiridos em sala de aula sobre os TAD
-estudados: Listas, Pilhas, Filas e Árvores Binárias. Também verifica a criação e uso de Bibliotecas
-e Arquivos.
+estudados: Listas, Pilhas, Filas e Árvores Binárias, bem como, verificar a criação e uso de Bibliotecas
+e Arquivos. Além da construção do algoritmo, há documento de texto (formato de artigo científico) apresentando o problema escolhido e a abstração da solução, contendo a justificativa de cada um dos TAD (estrutura + operações) usados.
 
 ## Especificações do trabalho
 
